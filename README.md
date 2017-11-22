@@ -3,5 +3,4 @@ Simple Blockchain in Python for learning/experiments to demonstrate the internal
 
 ### Usage
 
-
 ### Enhancements
