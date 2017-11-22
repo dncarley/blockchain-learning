@@ -1,2 +1,2 @@
 # blockchain-learning
-Simple Blockchain in Python for learning/experiments
+Simple Blockchain in Python for learning/experiments.
